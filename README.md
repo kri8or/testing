@@ -1,4 +1,4 @@
 # testing
 testing
 
-This is a Bad translation
+This is a Good translation
